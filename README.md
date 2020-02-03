@@ -1,6 +1,6 @@
 # Single Cycle Processor
 
-### Comp303 Computer Architecture - Team Project
+### Comp303 Computer Architecture - Term Project
 
 This is the term project of the course "Comp 303 Computer Architecture" in Fall 2019 semester.
 
